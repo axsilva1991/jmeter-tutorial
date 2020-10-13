@@ -26,3 +26,9 @@ RPS = Requisições por segundo
 ### Rampa de acessos.
 é sempre importante deixar a rampa de acessos bem distribuida, pois é interessante ver o autoscalle dos pods de forma fluida.
 
+### Recomendações para execução de testes de performance:
+* Reiniciar a Maquina para liberar espaço da memoria.
+* Fechar os outros programas.
+* Utilizar menos recursos do jmeeter, por exemplo: arvore de resultados.
+* Veririficar se o servidor de aplicação está dedicado para o teste, para que os resultados não sejam destorcidos.
+
